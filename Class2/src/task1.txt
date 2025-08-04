@@ -1,0 +1,40 @@
+Tesseract User Manual
+
+Tesseract User Manual
+
+This user manual is for Tesseract versions 5.x. For versions 4.x.x, 3.05.02 and older, see the
+documentation for old versions.
+
+* Tesseract User Manual
+Introduction
+
+© Releases and Changelog
+© Tesseract with LSTM
+© 5xx
+
+°
+
+= Source Code
+= Binaries
+= Traineddata Files
+= Compiling and Installation
+= Usage
+= API Examples
+= Technical Information
+= Training for Tesseract 5
+= Testing
+= External Projects
+© User Manual for Old Versions
+
+Introduction
+
+Tesseract is an open source text recognition (OCR) Engine, available under the Apache 2.0 license.
+
+‘* Major version 5 is the current stable version and started with release 5.0.0 on November 30,
+2021.
+
+* Newer minor versions and bugfix versions are available from GitHub.
+
+Latest source code is available from main branch on GitHub. Open issues can be found in
+issue tracker, and planning documentation.
+
